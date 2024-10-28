@@ -34,3 +34,8 @@
 
 <h2>🧠 Conclusion</h2>
 <p>This project highlights the dangers of <strong>SQL Injection</strong> and the importance of implementing <strong>secure coding practices</strong> to safeguard databases from unauthorized access. 🔒</p>
+
+<h2>👥 Credits</h2>
+    <p>Built by <a href="https://github.com/100rabhhh">Sourabh Jha</a></p>
+    <h2>📄 License</h2>
+    <p>This project is licensed under the MIT License.</p>
